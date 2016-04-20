@@ -5,6 +5,7 @@ https://play.google.com/store/apps/details?id=app.sevenc.mensagensefrases
 
 ###TODO
 - [x] Paginação
+- [x] Pesquisar mensagens
 - [x] Listagem das mensagens em dada categoria
 - [x] Edição das mensagens
 - [x] Criação de imagem com as mensagens
