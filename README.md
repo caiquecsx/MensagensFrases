@@ -3,7 +3,7 @@
 Site para meu aplicativo de mensagens 
 https://play.google.com/store/apps/details?id=app.sevenc.mensagensefrases
 
-##TODO
+###TODO
 - [x] Paginação
 - [x] Edição das mensagens
 - [x] Criação de imagem com as mensagens
