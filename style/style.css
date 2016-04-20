@@ -1,0 +1,48 @@
+body{
+  background: #e8eaf6;
+}
+
+.top-bar{
+  background-color: #3f51b5;
+}
+
+.top-bar-right ul{
+  background-color: #3f51b5;
+}
+.menu-text{
+  background-color: #3f51b5;
+}
+
+.menu a{
+  background-color: #3f51b5;
+  color: #fff;
+}
+
+.menu a:hover{
+  background-color: #283593;
+}
+
+.callout.large.primary{
+  background-color: #303f9f;
+  color: #fff;
+}
+
+.blog-post {
+	background:#FFF;
+}
+
+.blog-post p{
+  margin: 5%;
+  text-align:center;
+}
+
+.fb-share-button{
+  margin-right: 2%;
+}
+
+/*==================================================
+ * Effect 1
+ * ===============================================*/
+.effect1{
+     box-shadow: 0 10px 6px -6px #777;
+}
